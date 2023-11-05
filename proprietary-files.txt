@@ -681,7 +681,7 @@ vendor/etc/display/advanced_sf_offsets.xml
 # Displayfeature
 vendor/bin/displayfeature
 vendor/bin/hw/vendor.xiaomi.hardware.displayfeature@1.0-service
-vendor/etc/init/vendor.xiaomi.hardware.displayfeature@1.0-service.rc
+vendor/etc/init/vendor.xiaomi.hardware.displayfeature@1.0-service.rc|55a7de2bc5b4e8be299b0134e359c45e28a8589e
 vendor/lib64/hw/displayfeature.default.so
 vendor/lib64/hw/vendor.xiaomi.hardware.displayfeature@1.0-impl.so
 vendor/lib64/libdisplayfeature.so
